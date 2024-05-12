@@ -17,4 +17,6 @@ The methodology is the following:
   
 5. After that, we order by the **descending order by player value** to find good players that are currently overperforming and are cheap in the market.
 
-BAM! I recommend you to refer to the PDF on MDA (Modern Data Architectures) I uploaded. It is much better explained.
+##
+BAM! **I recommend you to refer to the PDF on MDA (Modern Data Architectures) I uploaded. It is much better explained.**
+##
