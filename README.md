@@ -25,6 +25,9 @@ The methodology used in this project is as follows:
 - notebooks/: Jupyter notebooks with detailed analysis and model development.
 - PDF: Documentation on methodology and usage.
 
+Btw, to initialize a pyspark session, you will need to install Java Runtime first. If you want to make this easier, you might want to check out: 
+https://github.com/raulmarinperez/osbdet
+
 ##
 BAM! **I recommend you to refer to the PDF on MDA (Modern Data Architectures) I uploaded. It is much better explained.**
 ##
