@@ -5,7 +5,9 @@ This repo contains the files to replicate a way of doing real football scouting:
 
 ![url](https://images.supersport.com/media/34vlqwkk/la-liga_2324_seasonstart_11082023_sup_1200.png?width=2048&quality=90&format=webp)
 
-The methodology is the following: 
+
+## Methodology
+The methodology used in this project is as follows:
 
 1. I built a **web-scrapping script** to extract transfermarkt player values for the main football leagues, and its second division leagues.
    
@@ -17,6 +19,14 @@ The methodology is the following:
   
 5. After that, we order by the **descending order by player value** to find good players that are currently overperforming and are cheap in the market.
 
+
+## Files in this repository
+- data/: Contains datasets used in the project.
+- notebooks/: Jupyter notebooks with detailed analysis and model development.
+- PDF: Documentation on methodology and usage.
+
 ##
 BAM! **I recommend you to refer to the PDF on MDA (Modern Data Architectures) I uploaded. It is much better explained.**
 ##
+
+
